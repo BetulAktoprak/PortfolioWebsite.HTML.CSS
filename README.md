@@ -1,8 +1,8 @@
 ## Portfolio Website
 
-This project is my personal portfolio website, created using HTML and CSS. The site showcases my design skills, projects, and information about me, presented across multiple pages.
+This project is a personal portfolio website I created using HTML and CSS. The site is designed as a single-page layout that includes sections for about me, skills, projects, and contact information.
 
-Bu proje, HTML ve CSS kullanarak oluşturduğum kişisel portföy web sitesidir. Bu site, tasarım yeteneklerimi, projelerimi ve hakkımda bilgileri içeren bir dizi sayfadan oluşmaktadır.
+Bu proje, HTML ve CSS kullanarak oluşturduğum kişisel portföy web sitesidir. Bu site, tek sayfa içerisinde hakkımda, yetenekler, projeler ve iletişim bilgilerinin olduğu bir düzen içerisindedir.
 
 ### Technologies Used
  - HTML5: Used for the structural framework and content organization.
