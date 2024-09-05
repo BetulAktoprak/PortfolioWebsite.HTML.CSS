@@ -15,9 +15,12 @@ Bu proje, HTML ve CSS kullanarak oluşturduğum kişisel portföy web sitesidir.
  - Responsive Tasarım: Web sitesinin farklı cihazlarda sorunsuz çalışması için medya sorguları kullanıldı.
 
 
-### Proje Tanıtımı (Project Demo) (GIF) 
+### Proje Tanıtımı (Project Demo) (GIF) <br>
 
 ![Video Açıklaması](Kayt2024-08-24013522-ezgif.com-video-to-gif-converter.gif)
 
+<br>
+
+https://betulaktoprak.github.io/PortfolioWebsite.HTML.CSS/
 
 
